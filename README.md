@@ -154,4 +154,27 @@ TypeError: Assignment to constant variable.
 
 
 **Quick Links**:  
-- [View Task 08 Java Script file](08-objects/script.js)
+- [View Task 09 Java Script file](09-Array/script.js)
+
+
+
+# 10: Functions
+**Topic**: Defining and Calling Functions.<br>
+**Exercise**:
+- Create a function that takes two numbers as parameters and returns their sum.
+- Write a function that checks if a number is even or odd.
+- Experiment with function expressions and arrow functions.
+
+**Quick Links**:  
+- [View Task 10 Java Script file](10-function/script.js)
+
+
+# 11: Operators and Control Flow
+**Topic**: Understanding Operators and Control Flow (if, else, switch, loops).<br>
+**Exercise**:
+- Create a program that takes a user’s age and displays whether they are a child, teenager, or adult.
+- Write a program that uses a for loop to display numbers from 1 to 10.
+- Implement a switch statement to handle different cases for a variable.
+
+**Quick Links**:  
+- [View Task 11 Java Script file](11-oprator-control-flow/script.js)

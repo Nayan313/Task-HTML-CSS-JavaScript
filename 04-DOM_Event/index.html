@@ -4,8 +4,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Task 04</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <p>task 01</p>
+    <h1 class="ChangeText">Click on button to change me using the textContent</h1>
+    <button onclick="changeText()">Change Text</button>
+
+    <p>task 02</p>
+<div class="box">
+    my backGround is changed when i am hover
+</div>
+
+<p>task 03</p>
+
+<form onsubmit="alert(`form is submitted`)">
+    <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" placeholder="Enter Your Name" required>
+    </div>
+    <div>
+        <label for="age">Age:</label>
+        <input type="number" id="age" placeholder="Enter Your Age" required>
+    </div>
+    <button type="submit">Submit</button>
+</form>
+
+
+<script>
+        function changeText(){
+            let text = document.querySelector(".ChangeText");
+            text.textContent = "My Text is Changed using the textContent"
+        }
+        let box  = document.querySelector(".box");
+        box.addEventListener("mouseover", (event) => {
+            box.style.background = "rgb(237, 100, 107)"
+        });
+        
+        box.addEventListener("mouseleave", (event) => {
+            box.style.background = "cornflowerblue"
+        });
+    </script>
 </body>
 </html>

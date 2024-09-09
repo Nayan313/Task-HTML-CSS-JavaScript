@@ -1,7 +1,7 @@
 let arr = [
+    { name: 'Nayan ', email: '7404@s.com' },
     { name: 'Nayan Sukhadiya', email: 'ganebe7404@maxturns.com' },
-    { name: 'Nayan Sukhadiya', email: 'ganebe7404@maxturns.com' },
-    { name: 'Nayan Sukhadiya', email: 'ganebe7404@maxturns.com' },
+    { name: 'Nayan patel', email: 'a@bcv.com' },
   ];
   
   let currentIndex = -1;

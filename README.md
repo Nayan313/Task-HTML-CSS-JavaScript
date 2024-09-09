@@ -194,15 +194,74 @@ TypeError: Assignment to constant variable.
 - Implement functions to add, remove, update, and display tasks.
 - Write a function that searches for a task by name and returns its index.
 
-
 **Quick Links**:  
 - [live Preview](https://nayan313.github.io/Task-HTML-CSS-JavaScript/12-crud-operator/index.html)
 - [View Task 12 HTML file](12-crud-operator/index.html)
 - [View Task 12 Css file](12-crud-operator/style.css)
 - [View Task 12 Java Script file](12-crud-operator/script.js)
 
+# 📅 Day 2
 
+## 13: Sorting, Joining, and Iterating Arrays
+**Topic**: Array Methods for Sorting, Joining, and Iterating.<br>
+**Exercise**:
+- Create an array of numbers and sort them in ascending and descending order.
+- Join an array of words into a single string with spaces in between.
+- Iterate over an array using forEach and display each element.
 
+**Quick Links**:  
+- [View Task 13 Java Script file](13-Array-Method/script.js)
+## 14: Filter, Map, Reduce
 
+**Topic**: Advanced Array Methods - Filter, Map, Reduce.<br>
+**Exercise**:
+- Use `filter` to create a new array with only the even numbers from an existing array.
+- Use `map` to create a new array with each number doubled.
+- Use `reduce` to find the sum of all numbers in an array.
 
+**Quick Links**:  
+- [View Task 14 Java Script file](​14-advanced-array-method/script.js)
+
+## 15: Spread Operators
+**Topic**: Using Spread Operators for Arrays and Objects.<br>
+**Exercise**:
+- Create a new array that combines two existing arrays using the spread operator.
+- Create a copy of an object and modify one of its properties without affecting the original object.
+- Use the spread operator to pass multiple arguments to a function.
+
+**Quick Links**:  
+- [View Task 15 Java Script file](​15-spread-oprator/script.js)
+
+## 16: Sets and Maps
+**Topic**: Introduction to Set and Map Data Structures.<br>
+**Exercise**:
+- Create a `Set` with a list of unique numbers and demonstrate adding, deleting, and checking for values.
+- Create a `Map` to store key-value pairs and demonstrate adding, retrieving, and deleting entries.
+- Iterate over the entries of a `Map` and log the key-value pairs.
+  
+
+**Quick Links**:  
+- [View Task 16 Java Script file](​16-sets-and-maps/script.js)
+ 
+
+## 17: Function Hoisting and Arguments
+**Topic**: Understanding Function Hoisting and the arguments Object.
+**Exercise**:
+- Write two functions: one declared with function and one with a function expression, and observe hoisting behavior.
+- Create a function that accepts a variable number of arguments and logs each one.
+- Use the arguments object to sum all the passed arguments in a function.
+
+**Quick Links**:  
+- [View Task 17 Java Script file](17-function-hosting/script.js)
 ​
+
+## 18: Rest Operator and Default Parameters
+**Topic**: Using the Rest Operator and Default Parameters. <br>
+**Exercise**:
+- Create a function that uses the rest operator to accept an arbitrary number of arguments and returns their sum.
+- Write a function with a default parameter and test it by calling the function with and without arguments.
+- Experiment with combining rest parameters with other named parameters.
+
+**Quick Links**:  
+- [View Task 18 Java Script file](18-rest-18-try-catchparameter/script.js)
+- [View Task 16 Java Script file](18-try-catch/script.js)

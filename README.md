@@ -127,7 +127,7 @@ TypeError: Assignment to constant variable.
 **Quick Links**:  
 - [View Task 06 Java Script file](06-Variables-Constants/script.js)
 
-# 7: Primitive Types and Dynamic Typing
+## 7: Primitive Types and Dynamic Typing
 **Topic**: Understanding Primitive Data Types and Dynamic Typing in JavaScript.<br>
 **Exercise**:
 - Declare variables of different types: `string`, `number`, `boolean`, `null`, `undefined`.
@@ -140,7 +140,7 @@ TypeError: Assignment to constant variable.
 - [View Task 07 Java Script file](07-Primitive-dynamic/script.js)
 
 
-# 8: Objects
+## 8: Objects
 **Topic**: Creating and Using Objects in JavaScript.<br>
 **Exercise**:
 - Create an object to represent a person with properties like name, age, and email.
@@ -152,7 +152,7 @@ TypeError: Assignment to constant variable.
 - [View Task 08 Java Script file](08-objects/script.js)
 
 
-# 9: Arrays
+## 9: Arrays
 **Topic**: Creating and Using Arrays in JavaScript.<br>
 **Exercise**:
 - Create an array of numbers and log its length.
@@ -165,7 +165,7 @@ TypeError: Assignment to constant variable.
 
 
 
-# 10: Functions
+## 10: Functions
 **Topic**: Defining and Calling Functions.<br>
 **Exercise**:
 - Create a function that takes two numbers as parameters and returns their sum.
@@ -176,7 +176,7 @@ TypeError: Assignment to constant variable.
 - [View Task 10 Java Script file](10-function/script.js)
 
 
-# 11: Operators and Control Flow
+## 11: Operators and Control Flow
 **Topic**: Understanding Operators and Control Flow (if, else, switch, loops).<br>
 **Exercise**:
 - Create a program that takes a user’s age and displays whether they are a child, teenager, or adult.
@@ -187,7 +187,7 @@ TypeError: Assignment to constant variable.
 - [View Task 11 Java Script file](11-oprator-control-flow/script.js)
 
 
-# 12: Array CRUD Operations
+## 12: Array CRUD Operations
 **Topic**: Basic CRUD Operations on Arrays.<br>
 **Exercise**:
 - Create an array of strings representing a list of tasks.

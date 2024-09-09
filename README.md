@@ -200,7 +200,7 @@ TypeError: Assignment to constant variable.
 - [View Task 12 Css file](12-crud-operator/style.css)
 - [View Task 12 Java Script file](12-crud-operator/script.js)
 
-# 📅 Day 2
+# 📅 Day 3
 
 ## 13: Sorting, Joining, and Iterating Arrays
 **Topic**: Array Methods for Sorting, Joining, and Iterating.<br>

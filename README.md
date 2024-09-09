@@ -1,7 +1,17 @@
 # Task: HTML, CSS, JavaScript
 
 ---
-
+# Live Preview of Task 
+- [ ⭐ Task 12 Crud Opration](https://nayan313.github.io/Task-HTML-CSS-JavaScript/12-crud-operator/index.html)
+- [Task 01]('https://nayan313.github.io/Task-HTML-CSS-JavaScript/01-Basic-of-HTML/index.html')
+- [Task 02]('https://nayan313.github.io/Task-HTML-CSS-JavaScript/02-Basic-of-css/index.html')
+- [Task 03]('https://nayan313.github.io/Task-HTML-CSS-JavaScript/03-Handling-forms-using-javascript/index.html')
+- [Task 04]('https://nayan313.github.io/Task-HTML-CSS-JavaScript/04-DOM_Event/index.html')
+- [Task 05]('https://nayan313.github.io/Task-HTML-CSS-JavaScript/05-dom-manipulation/index.html')
+<!-- - [Task 01]('')
+- [Task 01]('')
+- [Task 01]('')
+- [Task 01]('') -->
 # 📅 Day 1
 
 ## 01: Basics of HTML
@@ -186,6 +196,7 @@ TypeError: Assignment to constant variable.
 
 
 **Quick Links**:  
+- [live Preview](https://nayan313.github.io/Task-HTML-CSS-JavaScript/12-crud-operator/index.html)
 - [View Task 12 HTML file](12-crud-operator/index.html)
 - [View Task 12 Css file](12-crud-operator/style.css)
 - [View Task 12 Java Script file](12-crud-operator/script.js)

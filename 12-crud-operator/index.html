@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD Operation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main">
+        <div class="form">
+            <div>
+                <div class="form-ele">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" placeholder="please enter your name" name="name">
+                </div>
+                <div class="form-ele">
+                    <label for="email">Email</label>
+                    <input type="text" id="email" placeholder="please enter your email" name="email">
+                </div>
+                <div class="form-ele form-btn">
+                    <button onclick="formSubmit()">Submit</button>
+                </div>
+            </div>
+        </div>
+        <div class="form">
+            <table>
+                <thead cellpadding="0" border="0" ><tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th >Operation</th>
+                </tr></thead>
+                <tbody class="tableView"></tbody>
+            </table>
+        </div>
+    </div>
+    <div class="editSection">
+        <div class="overlay"></div>
+        <div class="editBox">
+            <div class="form">
+                <div>
+                    <div class="form-ele">
+                        <label for="nameUpdate">Name</label>
+                        <input type="text" id="nameUpdate" placeholder="please enter your name" name="nameUpdate">
+                    </div>
+                    <div class="form-ele">
+                        <label for="emailUpdate">Email</label>
+                        <input type="text" id="emailUpdate" placeholder="please enter your email" name="emailUpdate">
+                    </div>
+                    <div class="form-ele form-btn">
+                        <button onclick="formUpdate()">Update</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

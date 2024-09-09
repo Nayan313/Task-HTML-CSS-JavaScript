@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #222222;
+    color: #fff;
+}
+button{
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    gap: 15px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 95%;
+    height: 85vh;
+    border-radius: 20px;
+    padding: 15px;
+    margin: auto;
+    background-color: #343434;
+}
+.main>div{
+    height: -webkit-fill-available;
+    padding: 15px;
+    border-radius: 11px;
+    background-color: #222222;
+    overflow-y: auto;
+}
+.form-ele{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+input{
+    width: auto;
+    padding: 16px;
+    border-radius: 10px;
+    background-color: #343434;
+    color: aliceblue;
+    outline: none;
+    border: none;
+}
+.form-btn{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-direction: row;
+}
+.form-btn button{
+    background-color: #fff;
+    color: #222222;
+    padding: 10px 16px;
+    border-radius: 7px;
+    width: fit-content;
+    cursor: pointer;
+    outline: none;
+    font-weight: 600;
+    border: none;
+}
+table{
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+table thead{
+    padding: 10px;
+    background-color: #343434;
+}
+th,td{
+    border: 1px solid #343434;
+    padding: 10px;
+}
+td button{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 3px;
+}
+
+td button:hover{
+    cursor: pointer;
+    background-color: blanchedalmond;
+}
+.editSection{
+    display: none;
+}
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.606); 
+    z-index: 9;
+  }
+  
+  .editBox {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    width: 60%;
+    background-color: #222222;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+  }
+  

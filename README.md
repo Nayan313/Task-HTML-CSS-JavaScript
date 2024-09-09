@@ -175,3 +175,23 @@ TypeError: Assignment to constant variable.
 
 **Quick Links**:  
 - [View Task 11 Java Script file](11-oprator-control-flow/script.js)
+
+
+# 12: Array CRUD Operations
+**Topic**: Basic CRUD Operations on Arrays.<br>
+**Exercise**:
+- Create an array of strings representing a list of tasks.
+- Implement functions to add, remove, update, and display tasks.
+- Write a function that searches for a task by name and returns its index.
+
+
+**Quick Links**:  
+- [View Task 12 HTML file](12-crud-operator/index.html)
+- [View Task 12 Css file](12-crud-operator/style.css)
+- [View Task 12 Java Script file](12-crud-operator/script.js)
+
+
+
+
+
+​

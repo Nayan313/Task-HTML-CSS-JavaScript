@@ -264,4 +264,26 @@ TypeError: Assignment to constant variable.
 
 **Quick Links**:  
 - [View Task 18 Java Script file](18-rest-18-try-catchparameter/script.js)
-- [View Task 16 Java Script file](18-try-catch/script.js)
+
+## 19: Try and Catch, Scope, and This Keyword
+**Topic**: Error Handling, Variable Scope, and the this Keyword.<br>
+**Exercise**:
+- Write a function that intentionally throws an error and use try and catch to handle it.
+- Experiment with variable scope by declaring variables inside and outside of functions and blocks.
+- Create an object with a method that uses this to refer to the object’s properties.
+  
+**Quick Links**: 
+- [View Task 19 Java Script file](19-try-catch/script.js)
+
+
+## 20: Asynchronous Programming
+**Topic**: Promises, Async/Await, setInterval, and setTimeout.<br>
+**Exercise**:
+- Create a promise that resolves after 2 seconds and log a message when it’s done.
+- Use async and await to handle the promise in an asynchronous function.
+- Experiment with setTimeout to log a message after a delay and setInterval to log a message repeatedly every second.
+
+**Quick Links**: 
+- [View Task 20 Java Script file](20-asynchronous-programming/script.js)
+22-PrototypicalInheritence
+23-ES6-class

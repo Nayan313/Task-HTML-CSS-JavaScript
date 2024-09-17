@@ -220,7 +220,7 @@ TypeError: Assignment to constant variable.
 - Use `reduce` to find the sum of all numbers in an array.
 
 **Quick Links**:  
-- [View Task 14 Java Script file](​14-advanced-array-method/script.js)
+- [View Task 14 Java Script file](14-advanced-array/script.js)
 
 ## 15: Spread Operators
 **Topic**: Using Spread Operators for Arrays and Objects.<br>
@@ -230,7 +230,7 @@ TypeError: Assignment to constant variable.
 - Use the spread operator to pass multiple arguments to a function.
 
 **Quick Links**:  
-- [View Task 15 Java Script file](​15-spread-oprator/script.js)
+- [View Task 15 Java Script file](​15-spread/script.js)
 
 ## 16: Sets and Maps
 **Topic**: Introduction to Set and Map Data Structures.<br>
@@ -263,7 +263,7 @@ TypeError: Assignment to constant variable.
 - Experiment with combining rest parameters with other named parameters.
 
 **Quick Links**:  
-- [View Task 18 Java Script file](18-rest-18-try-catchparameter/script.js)
+- [View Task 18 Java Script file](18-rest-parameter/script.js)
 
 ## 19: Try and Catch, Scope, and This Keyword
 **Topic**: Error Handling, Variable Scope, and the this Keyword.<br>
@@ -285,5 +285,5 @@ TypeError: Assignment to constant variable.
 
 **Quick Links**: 
 - [View Task 20 Java Script file](20-asynchronous-programming/script.js)
-22-PrototypicalInheritence
-23-ES6-class
+- [22-PrototypicalInheritence](22-PrototypicalInheritence/script.js)
+- [23-ES6-class](23-ES6-class/script.js)
